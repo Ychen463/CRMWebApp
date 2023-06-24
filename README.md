@@ -27,7 +27,7 @@ To run this project you will need to set your environment variables.
 
 <i>Other places you can find us:</i><br>
 
-<a href="https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://www.twitter.com/justdjangocode" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.devgenius.io%2Fdjango-tutorial-on-how-to-create-a-booking-system-for-a-health-clinic-9b1920fc2b78&psig=AOvVaw1TE6ais9WftFi2qlRkNE0a&ust=1687715606854000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDd9N-83P8CFQAAAAAdAAAAABAJ" alt="YouTube"></a>
+<a href="https://yanlinc.com/" target="_blank"><img src="https://drive.google.com/file/d/1nVAazYPWxcPod2_dhS6FU6Cdg-bs3d2W/view?usp=sharing" alt="YanlinCPortfolio"></a>
 
 </div>
