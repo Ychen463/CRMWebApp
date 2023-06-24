@@ -19,6 +19,6 @@ To run this project you will need to set your environment variables.
 
 <i>Other places you can find us:</i><br>
 
-<a ><img src="https://yanlinc.com/assets/logo-32867e6f.svg " width="20" alt="YanlinCPortfolio" target="_blank"></a>
+<a ><img src="https://yanlinc.com/assets/logo-32867e6f.svg " style="width:48px;height:48px;" alt="YanlinCPortfolio" target="_blank"></a>
 
 </div>
