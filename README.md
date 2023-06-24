@@ -19,7 +19,6 @@ To run this project you will need to set your environment variables.
 
 <i>Other places you can find us:</i><br>
 
-<a ><img src="https://drive.google.com/file/d/1nVAazYPWxcPod2_dhS6FU6Cdg-bs3d2W/view?usp=sharing"></a>
-<a href="https://yanlinc.com/" target="_blank"><img src="https://drive.google.com/file/d/1nVAazYPWxcPod2_dhS6FU6Cdg-bs3d2W/view?usp=sharing" alt="YanlinCPortfolio"></a>
+<a ><img src="https://yanlinc.com/assets/logo-32867e6f.svg" alt="YanlinCPortfolio" target="_blank"></a>
 
 </div>
